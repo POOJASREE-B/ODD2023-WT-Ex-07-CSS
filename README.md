@@ -413,3 +413,5 @@ Remember to test your website in both light and dark modes to ensure the colors 
 # OUTPUT:7(vi):
 ![Alt text](<Screenshot 2023-12-13 171729.png>)
 ![Alt text](<Screenshot 2023-12-13 171813.png>)
+# RESULT:
+Therefore the code has been successfully executed
